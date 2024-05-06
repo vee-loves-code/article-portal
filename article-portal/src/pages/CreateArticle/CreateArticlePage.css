@@ -1,0 +1,19 @@
+.post-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  background-color: #9da2c8;
+}
+.back-arrow {
+  padding: 15px;
+  color: #000;
+  font-size: 16px;
+  cursor: pointer;
+}
+.post-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+}
